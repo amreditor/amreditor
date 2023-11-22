@@ -1,4 +1,10 @@
-### Hi there 👋
+Halo semua
+==
+Perkenalakan nama saya **Adam Muhammad Ridwan**.<br>
+saya seorang **Development** yang masih banyak belajar bahasa pemrograman.<br>
+untuk saat ini saya fokus untuk mengupgrade skill saya.<br>
+
+jika kamu tertarik berkenalan dengan saya silahkan ikut akun [LinkedIn](https://www.linkedin.com/in/adam-muhammad-ridwan-844a23266/)ku ya.<br>
 
 <!--
 **amreditor/amreditor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
