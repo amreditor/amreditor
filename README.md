@@ -1,6 +1,6 @@
 Halo semua
 ==
-Perkenalakan nama saya **Adam Muhammad Ridwan**.<br>
+Perkenalkan nama saya **Adam Muhammad Ridwan**.<br>
 saya seorang **Development** yang masih banyak belajar bahasa pemrograman.<br>
 untuk saat ini saya fokus untuk mengupgrade skill saya.<br>
 
